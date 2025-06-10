@@ -2,6 +2,11 @@
 ## Desarrollo de Software
 ### API Web
 
+## INTEGRANTES 3K3
+* Galindo Lobo Martina
+* Vega Maximiliano Leonel
+
+
 ## Tareas
 Bifurcar (fork) el repositorio.
 
